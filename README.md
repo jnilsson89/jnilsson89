@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there and welcome to my GitHub page! 👋
 
-<!--
-**jnilsson89/jnilsson89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:books: Currently Learning: ASP.NET MVC, HTML, CSS, JavaScript, Bootstrap 5 and Unity
 
-Here are some ideas to get you started:
+:computer: Skills: C#, .NET, Entity Framework Core, LINQ, ADO.NET, SQL, HTML, CSS and JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:floppy_disk: IDE: Visual Studio 2019, Visual Studio Code, Microsoft SQL Server Management Studio 18, LINQPad, Git
+
+### Contact me
+
+:mailbox_with_no_mail: j.nilsson89@outlook.com
+
+Thank you for visiting, stay safe! :pray:
