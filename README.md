@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub page! 👋
 
-:books: Currently Learning: ASP.NET MVC, HTML, CSS, JavaScript, Bootstrap 5 and Unity
+:books: Currently Learning: ASP.NET Core MVC, HTML, CSS, JavaScript, Bootstrap 5 and Unity
 
 :computer: Skills: C#, .NET, Entity Framework Core, LINQ, ADO.NET, SQL, HTML, CSS and JavaScript
 
