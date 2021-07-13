@@ -1,8 +1,8 @@
 ### Hi there and welcome to my GitHub page! 👋
 
-:books: Currently Learning: ASP.NET Core MVC, HTML, CSS, JavaScript, Bootstrap 5 and Unity
+:books: Currently Learning: ASP.NET Core MVC, HTML, CSS, JavaScript and Unity
 
-:computer: Skills: C#, .NET, Entity Framework Core, LINQ, ADO.NET, SQL, HTML, CSS and JavaScript
+:computer: Skills: C#, .NET, Entity Framework Core, LINQ, ADO.NET, SQL, HTML, CSS and JavaScript, Bootstrap 5, UIkit
 
 :floppy_disk: IDE: Visual Studio 2019, Visual Studio Code, Microsoft SQL Server Management Studio 18, LINQPad, Git
 
