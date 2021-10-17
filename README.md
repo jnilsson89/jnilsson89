@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub page! 👋
 
-:books: Currently Learning: ASP.NET Core, JavaScript, Vue and Unity
+:books: Currently Learning: ASP.NET Core, Xamarin, Vue and Unity
 
 :computer: Skills: C#, .NET, Entity Framework Core, ASP.NET Core, LINQ, ADO.NET, SQL, HTML5, CSS, JavaScript, Bootstrap 5, UIkit
 
