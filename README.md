@@ -1,10 +1,17 @@
-### Hi there and welcome to my GitHub page! 👋
+### Hello! I'm Johan Nilsson 👋
 
-:computer: Skills: C#, .NET, Entity Framework Core, ASP.NET Core, Xamarin.Android, LINQ, ADO.NET, SQL, HTML5, CSS, JavaScript, Bootstrap 5, UIkit
+## About Me
+I'm a software developer passionate about building robust applications with .NET and web technologies.
 
-:floppy_disk: IDE: Visual Studio 2022, Visual Studio 2019, Visual Studio Code, Microsoft SQL Server Management Studio 18, LINQPad, Unity, Git
+## Tech Stack
 
-### Contact me
+### Languages and Frameworks
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,unity,git,github,githubcopilot,chatgpt)](https://skillicons.dev)
+
+## Contact Me
 
 :mailbox_with_no_mail: j.nilsson89@outlook.com
 
