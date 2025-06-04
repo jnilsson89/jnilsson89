@@ -4,6 +4,8 @@
 
 🔧 Tools: Visual Studio 2022, Visual Studio Code, Microsoft SQL Server Management Studio 20, Unity
 
+⚡ Fun Fact: I love playing golf and make amazing (according to my friends, not to brag) pizzas
+
 ### Contact me
 
 :mailbox_with_no_mail: j.nilsson89@outlook.com
