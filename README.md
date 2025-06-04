@@ -1,17 +1,10 @@
 ### Hello! I'm Johan Nilsson 👋
 
-## About Me
-I'm a software developer passionate about building robust applications with .NET and web technologies.
+🧑‍💻 Skills: C#, .NET, SQL, HTML5, CSS, JavaScript, Bootstrap 5, UIkit
 
-## Tech Stack
+🔧 Tools: Visual Studio 2022, Visual Studio Code, Microsoft SQL Server Management Studio 20, Unity
 
-### Languages and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap)](https://skillicons.dev)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,unity,git,github,githubcopilot,chatgpt)](https://skillicons.dev)
-
-## Contact Me
+### Contact me
 
 :mailbox_with_no_mail: j.nilsson89@outlook.com
 
