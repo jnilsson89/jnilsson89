@@ -6,7 +6,7 @@
 
 🌱 Currently Learning: .NET MAUI and more about generative AI
 
-⚡ Fun Facts: I love playing golf and making homemade Neapolitan pizza almost every friday :pizza:
+⚡ Fun Facts: I love playing golf and making homemade Neapolitan pizza :pizza:
 
 ### Contact me
 
