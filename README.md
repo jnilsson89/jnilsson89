@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hello! I'm Johan Nilsson 👋
 
-<!--
-**jnilsson89/jnilsson89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Skills: C#, .NET, SQL, HTML5, CSS, JavaScript, Bootstrap 5, UIkit
 
-Here are some ideas to get you started:
+🔧 Tools: Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio 22, Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning: .NET MAUI and more about generative AI
+
+⚡ Fun Facts: I love playing golf and making homemade Neapolitan pizza 🍕
+
+### Contact me
+
+📧 j.nilsson89@outlook.com
+
+Thank you for visiting, stay safe! 🙏
