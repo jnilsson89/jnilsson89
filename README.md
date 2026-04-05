@@ -1,15 +1,21 @@
 ### Hello! I'm Johan Nilsson 👋
 
-🧑‍💻 Skills: C#, .NET, SQL, HTML5, CSS, JavaScript, Bootstrap 5, UIkit
+*C# & .NET Developer*
 
-🔧 Tools: Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio 22, Unity
+---
 
-🌱 Currently Learning: .NET MAUI and more about generative AI
+### 💻 Tech Stack & Tools
+- **Languages & Frameworks:** C#, .NET, SQL, JavaScript, HTML5/CSS, Bootstrap, UIkit
+- **Development:** Visual Studio, VS Code, SSMS, Unity
 
-⚡ Fun Facts: I love playing golf and making homemade Neapolitan pizza 🍕
+### 🌱 Currently Exploring
+- Building cross-platform apps with **.NET MAUI**
+- Learning more about **Generative AI**
 
-### Contact me
+### ⚡ Out of Office
+- 🏌️‍♂️ Enjoying a round of golf
+- 🍕 Perfecting my homemade Neapolitan pizza
 
-📧 j.nilsson89@outlook.com
+---
 
-Thank you for visiting, stay safe! 🙏
+📫 **Get in touch:** [j.nilsson89@outlook.com](mailto:j.nilsson89@outlook.com)
