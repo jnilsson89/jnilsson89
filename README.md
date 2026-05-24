@@ -9,8 +9,9 @@
 | | |
 |---|---|
 | **Languages** | C#, SQL, JavaScript, HTML/CSS |
-| **Frameworks** | .NET MAUI, ASP.NET Core, Blazor |
+| **Frameworks** | .NET MAUI, ASP.NET Core, Blazor, Bootstrap |
 | **Backend** | Entity Framework Core, REST APIs |
+| **Cloud & DevOps** | Microsoft Azure, Azure DevOps |
 | **Game Dev** | Unity |
 | **Tools** | Visual Studio, VS Code, SSMS |
 
