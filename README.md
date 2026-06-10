@@ -18,8 +18,8 @@
 ### 🚀 Projects
 
 **[ForeWind](https://forewind.app)** — Golf Shot Calculator  
-A .NET MAUI app for Android that calculates adjusted shot distances using real-time weather, GPS, and compass data.  
-[![Google Play](https://img.shields.io/badge/Google_Play-ForeWind-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jnsoftware.forewind)
+A .NET MAUI app for Android & iOS that calculates adjusted shot distances using real-time weather, GPS, and compass data.  
+[![Google Play](https://img.shields.io/badge/Google_Play-ForeWind-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jnsoftware.forewind) [![App Store](https://img.shields.io/badge/App_Store-ForeWind-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/se/app/forewind/id6773070688)
 
 **Untitled Mobile Game** *(in development)*  
 Cross-platform Unity game for Android & iOS — my first dive into game development.
