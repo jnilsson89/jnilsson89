@@ -1,37 +1,31 @@
-### Hello! I'm Johan Nilsson 👋
+### Hi, I'm Johan 👋
 
-*.NET Developer — Mobile, Backend & Web*
+**.NET developer** — mobile, backend & web. I build cross-platform apps with .NET MAUI and web applications with ASP.NET Core.
 
----
+#### 🏌️ ForeWind
 
-### 💻 Tech Stack
+A golf shot calculator for iOS & Android that adjusts shot distances using live weather, GPS, and compass data.
 
-| | |
-|:--|:--|
-| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Frameworks** | ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white) |
-| **Tools** | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/se/app/forewind/id6773070688)
+[![Google Play](https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jnsoftware.forewind)
 
----
+Also in the works: a cross-platform Unity game for mobile — early days, first time in game dev.
 
-### 🚀 Projects
+#### 🧰 Stack
 
-**[ForeWind](https://forewind.app)** — Golf Shot Calculator  
-A .NET MAUI app for Android & iOS that calculates adjusted shot distances using real-time weather, GPS, and compass data.  
-[![Google Play](https://img.shields.io/badge/Google_Play-ForeWind-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jnsoftware.forewind) [![App Store](https://img.shields.io/badge/App_Store-ForeWind-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/se/app/forewind/id6773070688)
+![C#](https://img.shields.io/badge/C%23-2f363d?style=flat-square)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-2f363d?style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-2f363d?style=flat-square)
+![Blazor](https://img.shields.io/badge/Blazor-2f363d?style=flat-square)
+![EF Core](https://img.shields.io/badge/EF_Core-2f363d?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-2f363d?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-2f363d?style=flat-square)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-2f363d?style=flat-square)
 
-**Untitled Mobile Game** *(in development)*  
-Cross-platform Unity game for Android & iOS — my first dive into game development.
+#### ⛳ Off the clock
 
----
+When I'm not coding you'll find me on the golf course — or perfecting my Neapolitan pizza 🍕
 
-### 🌱 Currently
+#### 📫 Elsewhere
 
-- Integrating **Generative AI** into everyday tooling
-- 🏌️ On the golf course when I'm not coding
-- 🍕 Perfecting my Neapolitan pizza
-
----
-
-🌐 [jnilsson89.github.io](https://jnilsson89.github.io) &nbsp;·&nbsp; 📫 [j.nilsson89@outlook.com](mailto:j.nilsson89@outlook.com)
+[jnilsson89.github.io](https://jnilsson89.github.io) · [j.nilsson89@outlook.com](mailto:j.nilsson89@outlook.com)
