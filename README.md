@@ -16,8 +16,6 @@ A refund tracker for iOS & Android that keeps tabs on returns and refunds so not
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/se/app/refundhound-refund-tracker/id6794318436)
 [![Google Play](https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.nilbytestudio.refundhound)
 
-Also in the works: a cross-platform Unity game for mobile — early days, first time in game dev.
-
 #### 🧰 Stack
 
 ![C#](https://img.shields.io/badge/C%23-2f363d?style=flat-square)
